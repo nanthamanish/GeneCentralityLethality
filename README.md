@@ -20,3 +20,12 @@ The extraction for the current dataset has been performed in for the dataset use
 
 ## Prediction and Evalution:
 ```Predict_Evaluate.py``` predicts genes and calculates stats using the XGboost package and uses leave one out validation.
+
+To run this, store all feature extracted files in the form ```Features/feat_<taxonomical id>.csv``` and the essential genes in the form ```EssGenes/ess_<taxonomical id>.csv```. The ReFeX features selected for prediction are alone to be appended to each feature file.
+
+## Results:
+The results obtained when run on the database are as follows
+<p  align="center">
+<img src="![image](https://user-images.githubusercontent.com/59362872/124969818-cb693600-e044-11eb-88fc-c65fef239148.png)
+" alt="drawing" width="400"/>
+</p>
