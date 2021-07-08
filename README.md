@@ -26,6 +26,6 @@ To run this, store all feature extracted files in the form ```Features/feat_<tax
 ## Results:
 The results obtained when run on the database are as follows
 <p  align="center">
-<img src="![image](https://user-images.githubusercontent.com/59362872/124969818-cb693600-e044-11eb-88fc-c65fef239148.png)
-" alt="drawing" width="400"/>
+<img src="![image](https://user-images.githubusercontent.com/59362872/124970028-0e2b0e00-e045-11eb-96a0-7213c8171241.png)
+" alt="drawing"/>
 </p>
